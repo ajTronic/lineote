@@ -21,3 +21,4 @@ lineote all # view all past entries
 lineote last # view last entry
 lineote last 3 # view last 3 entries
 ```
+Notes are stored in `~/.lineote_messages`
