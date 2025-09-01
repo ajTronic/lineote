@@ -11,7 +11,7 @@ This project is not really finished. It is works but it has limited functionalit
 git clone https://github.com/ajTronic/lineote 
 cd lineote
 gcc main.c -O3
-mv ./a.out /usr/bin/lineote
+sudo mv ./a.out /usr/bin/lineote
 ```
 
 # Usage
